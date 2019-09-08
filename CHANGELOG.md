@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.3](https://github.com/fnmendez/std-test/compare/v0.1.2...v0.1.3) (2019-09-08)
+
+
+### Chore
+
+* **travis ci:** nothing ([7e654cd](https://github.com/fnmendez/std-test/commit/7e654cd))
+
+
+### Features
+
+* aoisdjia ([16b2c17](https://github.com/fnmendez/std-test/commit/16b2c17))
+* asd ([00af3ee](https://github.com/fnmendez/std-test/commit/00af3ee))
+* epokfpos ([b83ed5d](https://github.com/fnmendez/std-test/commit/b83ed5d))
+
 ### [0.1.2](https://github.com/fnmendez/std-test/compare/v0.1.1...v0.1.2) (2019-09-08)
 
 
