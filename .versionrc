@@ -1,15 +1,15 @@
 {
+  "header": "CHANGELOG",
   "types": [
     {"type": "feat", "section": "Features"},
     {"type": "fix", "section": "Bug Fixes"},
     {"type": "test", "section": "Tests"},
-    {"type": "docs", "section": "Documentation"},
-    {"type": "docker", "section": "Docker"},
-    {"type": "ci", "section": "Continuous Integration"},
-    {"type": "style", "section": "Style Improvements"},
     {"type": "chore", "section": "Chore"},
+    {"type": "style", "section": "Style Improvements"},
+    {"type": "docs", "hidden": true},
+    {"type": "release", "hidden": true},
     {"type": "refactor", "hidden": true},
-    {"type": "perf", "hidden": true},
-    {"type": "test", "hidden": true}
-  ]
+    {"type": "perf", "hidden": true}
+  ],
+  "releaseCommitMessageFormat": "release: {{currentTag}}"
 }
